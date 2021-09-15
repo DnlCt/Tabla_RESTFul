@@ -25,6 +25,4 @@ _El servidor comienza con un menù de opciones a seguir dependiendo la operaciò
 
 ## Autor 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [Github](https://github.com/DnlCt) - Daniel Alberto Cota Ochoa _(329701)_
